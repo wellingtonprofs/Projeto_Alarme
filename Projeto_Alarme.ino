@@ -47,11 +47,11 @@ DHT dht(DHTPIN, DHTTYPE);
 
 
 // Acesso ao Roteador senha e login //
-const char* ssid = "OzaNet_Claudia";
-const char* password = "19082022";
+const char* ssid = "00000000000000";
+const char* password = "0000000";
 
 #define emailSenderAccount   "wellington.ferreira1259@gmail.com"
-#define emailSenderPassword  "012012012we"
+#define emailSenderPassword  "0000000"
 #define emailRecipient1      "wellington.ferreira12@hotmail.com" // Varia as quantidades de emails enviado //
 #define emailRecipient2      "claudia.bispo@outlook.com"         // Varia as quantidades de emails enviado secundario //
 #define smtpServer           "smtp.gmail.com"
